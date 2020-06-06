@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8d2ada6f26c464ce13d93088c0c13325",
+    "revision": "63a912857a8441846324e19427bba381",
     "url": "/blackwhite2018/ProductCards/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/blackwhite2018/ProductCards/static/css/2.2b234b19.chunk.css"
   },
   {
-    "revision": "30c203bb9bf773a02dac",
+    "revision": "6c9e107af50ea2bd7307",
     "url": "/blackwhite2018/ProductCards/static/css/main.cbfa1fbf.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/blackwhite2018/ProductCards/static/js/2.92d86ca7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "30c203bb9bf773a02dac",
-    "url": "/blackwhite2018/ProductCards/static/js/main.29e634fd.chunk.js"
+    "revision": "6c9e107af50ea2bd7307",
+    "url": "/blackwhite2018/ProductCards/static/js/main.e095074f.chunk.js"
   },
   {
     "revision": "cbb815f8b511469c220a",

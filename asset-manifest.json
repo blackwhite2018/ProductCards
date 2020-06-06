@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/blackwhite2018/ProductCards/static/css/main.cbfa1fbf.chunk.css",
-    "main.js": "/blackwhite2018/ProductCards/static/js/main.29e634fd.chunk.js",
-    "main.js.map": "/blackwhite2018/ProductCards/static/js/main.29e634fd.chunk.js.map",
+    "main.js": "/blackwhite2018/ProductCards/static/js/main.e095074f.chunk.js",
+    "main.js.map": "/blackwhite2018/ProductCards/static/js/main.e095074f.chunk.js.map",
     "runtime-main.js": "/blackwhite2018/ProductCards/static/js/runtime-main.3e45067d.js",
     "runtime-main.js.map": "/blackwhite2018/ProductCards/static/js/runtime-main.3e45067d.js.map",
     "static/css/2.2b234b19.chunk.css": "/blackwhite2018/ProductCards/static/css/2.2b234b19.chunk.css",
     "static/js/2.92d86ca7.chunk.js": "/blackwhite2018/ProductCards/static/js/2.92d86ca7.chunk.js",
     "static/js/2.92d86ca7.chunk.js.map": "/blackwhite2018/ProductCards/static/js/2.92d86ca7.chunk.js.map",
     "index.html": "/blackwhite2018/ProductCards/index.html",
-    "precache-manifest.53c0b4c281662ee6f630db6d9e9df416.js": "/blackwhite2018/ProductCards/precache-manifest.53c0b4c281662ee6f630db6d9e9df416.js",
+    "precache-manifest.47e5c297d5e22c282f009dcbf86a4e3f.js": "/blackwhite2018/ProductCards/precache-manifest.47e5c297d5e22c282f009dcbf86a4e3f.js",
     "service-worker.js": "/blackwhite2018/ProductCards/service-worker.js",
     "static/css/2.2b234b19.chunk.css.map": "/blackwhite2018/ProductCards/static/css/2.2b234b19.chunk.css.map",
     "static/css/main.cbfa1fbf.chunk.css.map": "/blackwhite2018/ProductCards/static/css/main.cbfa1fbf.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.2b234b19.chunk.css",
     "static/js/2.92d86ca7.chunk.js",
     "static/css/main.cbfa1fbf.chunk.css",
-    "static/js/main.29e634fd.chunk.js"
+    "static/js/main.e095074f.chunk.js"
   ]
 }

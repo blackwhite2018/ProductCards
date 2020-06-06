@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/blackwhite2018/ProductCards/precache-manifest.53c0b4c281662ee6f630db6d9e9df416.js"
+  "/blackwhite2018/ProductCards/precache-manifest.47e5c297d5e22c282f009dcbf86a4e3f.js"
 );
 
 self.addEventListener('message', (event) => {
