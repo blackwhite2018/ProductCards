@@ -1,7 +1,5 @@
 React cards product
 
-<a href="https://blackwhite2018.github.io/Gallery/" target="_blank">View Demo</a>
-
 ## Installation
 
 `npm install` for installed dependencies
