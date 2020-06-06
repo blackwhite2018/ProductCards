@@ -1,0 +1,27 @@
+.card__title {
+    text-align: center;
+}
+
+.card__color {
+    text-align: center;
+}
+
+.card__price {
+    display: flex;
+    align-items: center;
+    color: #d53e2d;
+}
+
+.card__box {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card__button {
+    border: 1px solid #d53e2d;
+    color: #d53e2d;
+    padding: 10px 15px;
+    border-radius: 20px;
+    background-color: rgba(0, 0, 0, 0);
+    cursor: pointer;
+}

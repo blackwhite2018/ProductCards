@@ -1,0 +1,8 @@
+.menu {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.root__menu {
+    margin-bottom: 20px;
+} 
